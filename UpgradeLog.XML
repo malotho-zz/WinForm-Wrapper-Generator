@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="WrapperGenerator">
+</Property><Property Name="Solution File" Value="C:\Users\sa-dev-01\Desktop\WrapperGen_Source\Backup\Backup\WrapperGenerator.sln">
+</Property><Property Name="Date" Value="Thursday, June 25, 2020">
+</Property><Property Name="Time" Value="17:05 PM">
+</Property></Properties><Event ErrorLevel="0" Project="WrapperGenerator" Source="WrapperGenerator\WrapperGenerator.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="WrapperGenerator" Source="WrapperGenerator\WrapperGenerator.csproj" Description="Converted">
+</Event><Event ErrorLevel="2" Project="TestTypes" Source="TestTypes\TestTypes.csproj" Description="Unable to open project file to perform upgrade.  ">
+</Event><Event ErrorLevel="0" Project="" Source="WrapperGenerator.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="WrapperGenerator.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="WrapperGenerator" Source="WrapperGenerator\WrapperGenerator.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

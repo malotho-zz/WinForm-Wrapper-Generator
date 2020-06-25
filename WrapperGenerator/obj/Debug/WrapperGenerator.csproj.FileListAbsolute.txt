@@ -1,0 +1,17 @@
+C:\Users\sa-dev-01\Desktop\WrapperGen_Source\Backup\Backup\WrapperGenerator\obj\Debug\WrapperGenerator.UI.AssemblyBrowser.resources
+C:\Users\sa-dev-01\Desktop\WrapperGen_Source\Backup\Backup\WrapperGenerator\obj\Debug\WrapperGenerator.UI.GeneratedWrapper.resources
+C:\Users\sa-dev-01\Desktop\WrapperGen_Source\Backup\Backup\WrapperGenerator\obj\Debug\WrapperGenerator.UI.View.resources
+C:\Users\sa-dev-01\Desktop\WrapperGen_Source\Backup\Backup\WrapperGenerator\obj\Debug\WrapperGenerator.UI.Properties.Resources.resources
+C:\Users\sa-dev-01\Desktop\WrapperGen_Source\Backup\Backup\WrapperGenerator\obj\Debug\WrapperGenerator.UI.WrappingOptions.resources
+C:\Users\sa-dev-01\Desktop\WrapperGen_Source\Backup\Backup\WrapperGenerator\obj\Debug\WrapperGenerator.csproj.GenerateResource.Cache
+C:\Users\sa-dev-01\Desktop\WrapperGen_Source\Backup\Backup\WrapperGenerator\bin\Debug\WrapperGenerator.exe
+C:\Users\sa-dev-01\Desktop\WrapperGen_Source\Backup\Backup\WrapperGenerator\bin\Debug\WrapperGenerator.pdb
+C:\Users\sa-dev-01\Desktop\WrapperGen_Source\Backup\Backup\WrapperGenerator\bin\Debug\SandBar.dll
+C:\Users\sa-dev-01\Desktop\WrapperGen_Source\Backup\Backup\WrapperGenerator\bin\Debug\SandDock.dll
+C:\Users\sa-dev-01\Desktop\WrapperGen_Source\Backup\Backup\WrapperGenerator\bin\Debug\Squishyware.Text.SyntaxHighlighting.dll
+C:\Users\sa-dev-01\Desktop\WrapperGen_Source\Backup\Backup\WrapperGenerator\obj\Debug\WrapperGenerator.exe
+C:\Users\sa-dev-01\Desktop\WrapperGen_Source\Backup\Backup\WrapperGenerator\obj\Debug\WrapperGenerator.pdb
+C:\Users\sa-dev-01\Desktop\WrapperGen_Source\Backup\Backup\WrapperGenerator\bin\Debug\WrapperGenerator.exe.config
+C:\Users\sa-dev-01\Desktop\WrapperGen_Source\Backup\Backup\WrapperGenerator\obj\Debug\WrapperGenerator.csprojAssemblyReference.cache
+C:\Users\sa-dev-01\Desktop\WrapperGen_Source\Backup\Backup\WrapperGenerator\obj\Debug\WrapperGenerator.csproj.CoreCompileInputs.cache
+C:\Users\sa-dev-01\Desktop\WrapperGen_Source\Backup\Backup\WrapperGenerator\obj\Debug\WrapperGenerator.csproj.CopyComplete
